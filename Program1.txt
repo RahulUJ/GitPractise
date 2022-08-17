@@ -1,3 +1,6 @@
-Good Afternoon,
-My First Document
-Thank You - bye bye 
+class Hello
+{
+	public static void main(String[] args){
+	System.out.println("I am Rahul Uj");
+	}
+}
